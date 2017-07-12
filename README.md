@@ -18,9 +18,10 @@
 ## CIFAR-10 (test error rate)
 | Model / Unlabeled samples | 1000 | 2000 | 4000 | 8000
 |---|---|---|---|---|
-| [CatGAN](https://arxiv.org/abs/1511.06390) | - | - | 19.58 + 0.46 | - |
-| [Improved GAN](https://arxiv.org/abs/1606.03498) | 21.83 +- 2.01 | 19.61 +- 2.09 | 18.63 +- 2.32 | 17.72 +- 1.82 |
-| [Bayesian GAN](https://arxiv.org/abs/1705.09558) | 29.7 +- 3.2 | 25.4 +- 4.3 | 22.8 +-2.4 | 20.9 +- 1.8 |
-| [Bad GAN](https://arxiv.org/abs/1705.09783) | - | - | 14.41 +- 0.3 | - |
 | [DRMM](https://arxiv.org/abs/1612.01936) | - | - | 23.24 | - |
 | [DRMM improved](https://arxiv.org/abs/1612.01942) | - | - |  21.50 | 17.16 |
+| [Bayesian GAN](https://arxiv.org/abs/1705.09558) | 29.7 +- 3.2 | 25.4 +- 4.3 | 22.8 +-2.4 | 20.9 +- 1.8 |
+| [Ladder Network](https://arxiv.org/abs/1507.02672) | - | - | 20.40 +- 0.47 | - |
+| [CatGAN](https://arxiv.org/abs/1511.06390) | - | - | 19.58 + 0.46 | - |
+| [Improved GAN](https://arxiv.org/abs/1606.03498) | 21.83 +- 2.01 | 19.61 +- 2.09 | 18.63 +- 2.32 | 17.72 +- 1.82 |
+| [Bad GAN](https://arxiv.org/abs/1705.09783) | - | - | 14.41 +- 0.3 | - |
