@@ -1,7 +1,7 @@
 # ssl_soa
 State of the art methods for semi-supervised learning
 
-## MNIST
+## MNIST (number of misclassifications)
 | Model / Unlabeled samples | 20 | 50 | 100 | 200 |
 |---|---|---|---|---|
 | [Deep Generative Models](https://arxiv.org/abs/1406.5298) | - | - | 333 +- 14 | - |
@@ -15,7 +15,7 @@ State of the art methods for semi-supervised learning
 | [DRMM](https://arxiv.org/abs/1612.01936) | - | - | 57 | - | 
 
 
-## CIFAR-10
+## CIFAR-10 (test error rate)
 | Model / Unlabeled samples | 1000 | 2000 | 4000 | 8000
 |---|---|---|---|---|
 | [CatGAN](https://arxiv.org/abs/1511.06390) | - | - | 19.58 + 0.46 | - |
