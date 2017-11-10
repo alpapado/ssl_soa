@@ -25,4 +25,5 @@
 | [CatGAN](https://arxiv.org/abs/1511.06390) | - | - | 19.58 + 0.46 | - |
 | [Improved GAN](https://arxiv.org/abs/1606.03498) | 21.83 +- 2.01 | 19.61 +- 2.09 | 18.63 +- 2.32 | 17.72 +- 1.82 |
 | [Bad GAN](https://arxiv.org/abs/1705.09783) | - | - | 14.41 +- 0.3 | - |
+| [Infinite VAE](https://arxiv.org/abs/1611.07800) | 8.72 +- 0.45 | - | 7.78 +- 0.13 | - |
 
