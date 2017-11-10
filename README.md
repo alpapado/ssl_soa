@@ -3,6 +3,7 @@
 ## MNIST (number of misclassifications)
 | Model / Labeled samples | 20 | 50 | 100 | 200 |
 |---|---|---|---|---|
+| [Infinite VAE](https://arxiv.org/abs/1611.07800) | - | - | 393 +- 50 | - |
 | [Deep Generative Models](https://arxiv.org/abs/1406.5298) | - | - | 333 +- 14 | - |
 | [Virtual Adversarial](https://arxiv.org/abs/1507.00677) | - | - | 212 | - |
 | [CatGAN](https://arxiv.org/abs/1511.06390) | - | - | 191 +- 10 | - |
